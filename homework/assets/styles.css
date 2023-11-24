@@ -1,0 +1,39 @@
+/* Общие стили */
+.text-purple {
+    color: purple;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+/* Стили для шапки */
+.header {
+    background-color: white;
+}
+
+
+.banner__button {
+    background-color: #5222D0;
+    color: white;
+    max-width: 100%;
+    height: auto;
+    font-weight: 300;
+}
+
+
+/* Стили для футера */
+.footer {
+background-color: white;
+font-weight: 400;
+}
+
+.footer__title {
+background-color: white;
+}
+
+.footer__column-title {
+    margin-bottom: 8px; /* Регулирует промежуток между названиями */
+    font-size: 20px;
+    font-weight: 300; 
+  }
